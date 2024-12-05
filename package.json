@@ -2,7 +2,7 @@
   "name": "moz-todo-vue",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://mdn.github.io/todo-vue/",
+  "homepage": "https://xiao0120911.github.io/todo-vue/",
   "type": "module",
   "engines": {
     "node": ">=20.0.0"
